@@ -1,0 +1,44 @@
+//********************************************************//
+Sorry Cheesewoo that I am 5 or so mounth late with this,
+not been on DevientArt for a while.
+Regards,
+RainbowHooves
+//********************************************************//
+!!!! IMPORTANT !!!! You also need "Launcher.ini" !!!!
+//********************************************************//
+Place this (Apps.txt) in a folder
+(..//Rainmeter/Skins/Launcher)
+Along with Launcher.ini
+//********************************************************//
+ 
+[Variables]
+ 
+App1="*HERE*"		//# App Name, Text Display
+App1Path=*HERE*		//# App Path, C:/Programs/Derp.exe
+ 
+App2=""			//# Leave Blank for Spacing
+App2Path=      
+ 
+App3=""			//# If you need more then 10 Apps Edit "Launcher.ini"
+App3Path=		//# If you don't know how chances are you don't need more Apps
+ 
+App4=""			//# If you don't know how and you really need more
+App4Path=		//# Load the Skin again in a new folder you call "Launcher 2"
+ 
+App5=""
+App5Path=
+ 
+App6=""
+App6Path=
+ 
+App7=""
+App7Path=
+ 
+App8="Right Click, Edit Skin"
+App8Path=
+ 
+App9=""
+App9Path=
+ 
+App10=""
+App10Path=
